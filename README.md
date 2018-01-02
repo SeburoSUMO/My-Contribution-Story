@@ -1,4 +1,4 @@
-# My-Contribution-Story
+# My Contribution Story
 
 A long time ago, I was not as connected to world as I am now, I lacked the understanding and awareness of the Web and the wider Internet.  Growing up I was lucky to have parents that could not afford to buy me a PC as we would know it today but they helped build my affinity for the digital world through games consoles, an Acorn Electron and the Amstrad CPC6128 and playing solitaire on my Father's work laptop (not sure of the OS, but it was monochrome (possibly Windows 2).
 
