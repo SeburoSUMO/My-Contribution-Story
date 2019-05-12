@@ -18,10 +18,10 @@ Fast forward to late summer 2014 and the decision to get a “smart phone”, wa
 
 Baffled, I read how to set up IRC and asked in #mobile, where someone called Margaret offered to fix it.  After about half an hour, it was ready to try again, and it worked!  This was cool for many reasons:
 
-    • We were in different countries
-    • ...communicating in real time
-    • ...fixing some “open source” software
-    • ..and the fix was available for everyone to use, globally.
+• We were in different countries
+• ...communicating in real time
+• ...fixing some “open source” software
+• ...and the fix was available for everyone to use, globally.
 
 This made me realise that there was something in this “open source” stuff I had been reading about and it made me feel a bit bad.  I had received this service, and was using this software, for free.  I had not opened my wallet, written a cheque or sent anyone any money.
 
